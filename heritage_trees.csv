@@ -1,0 +1,136 @@
+﻿X,Y,OBJECTID,TreeID,BotanicalName,CommonName,Address,SiteLocation,NumberOfTreesOnSite,Diameter,Circumference,Description,History,AssociatedAPN,CityCouncilDistrict,Photographed,Path
+-121.882175999219,37.2968832862857,1,HT-06-008-C,Cedrus deodara,Cedars,800 Malone Road,right front of lot,3,,,,,439-26-059,6,4/08,HT-06-008-C.JPG
+-121.842888318624,37.2019275900038,2,HT-10-007,Quercus lobata,Valley Oak,7090 Calcatera Way,,1,36,113,,,,10,4/08,HT-10-007.JPG
+-121.795303193856,37.2265699668212,3,HT-02-009,Quercus lobata,Valley Oak,"	341 Manila Drive",back yard,1,40,126,,,704-10-005,2,8/95,HT-02-009.JPG
+-121.7861460385,37.2317102553904,4,HT-02-012,Quercus lobata,Valley Oak,201 Paraiso Court,"	back yard",1,50,157,,,704-29-057,2,8/95,HT-02-012.JPG
+-121.779367801306,37.2368995843183,5,HT-02-013,Quercus lobata,Valley Oak,San Ignacio Avenue nw of Los Colinas Lane,next to 6311 & 6321 San Ignacio Avenue,1,60,189,,,706-09-069,2,8/95,HT-02-013.JPG
+-121.781109860058,37.2333421811914,6,HT-02-015,Quercus agrifolia,Coast Live Oak,"	Via Del Oro",,1,50,,,,,2,4/08,HT-02-015.JPG
+-121.78044822272,37.2329890340719,7,HT-02-006,Quercus lobata,Valley Oak,Great Oaks Boulevard at Via del Oro,open field,1,52,164,,,706-02-027,2,8/95,HT-02-006.JPG
+-121.775531088225,37.2329772025743,8,HT-02-014,Quercus lobata,Valley Oak,San Ignacio Avenue nw of Los Colinas Lane,approx 400' north of Bernal,1,48,151,,,706-01-078,2,4/08,HT-02-014.JPG
+-121.805664077026,37.2360598278661,9,HT-02-011,Quercus lobata,Valley Oak,355B Nature Drive,back yard,1,64,201,,,689-29-046,2,8/95,HT-02-011.JPG
+-121.796807438929,37.252562728847,11,HG-02-001,Eucalyptus acaciaformis & E. punctata,Eucalyptus,Monterey Hwy / Ford Road intersection,Blossom Hill CalTrain Parking lot,11,,,planted by Max Watson,unusual species of eucalyptus,706-06-015,2,"	4/08",HG-02-001.JPG
+-121.809230973722,37.250711305044,13,HT-02-010,Quercus lobata,Valley Oak,133 Manton Drive,park strip,1,54,170,,,692-09-022,2,8/95,HT-02-010.JPG
+-121.806889775044,37.2623532914986,15,HT-02-002-B,Quercus lobata,Valley Oak,195 Dogaway Drive,"front yard, tree on right",2,48,151,,,,2,4/08,HT-02-002-B.JPG
+-121.806971756332,37.2623523763738,16,HT-02-002-A,Quercus lobata,Valley Oak,195 Dogaway Drive,"front yard, tree on left",2,48,151,,,684-31-090,2,4/08,HT-02-002-A.JPG
+-121.820004057504,37.2627829019618,17,HT-02-003,Pinus canariensis,Canary Island Pine,200 Edenvale Avenue,parking lot to the right of entrance,1,34,107,Hayes Mansion site,,685-04-026,2,4/08,HT-02-003.JPG
+-121.821246224748,37.2625960261113,18,HT-02-016,"	Cupressus guadalupensis",Tecate Cypress,"200 Edenvale Avenue, Hayes Mansion",,1,18,,,"	unusual species of cypress",,2,4/08,HT-02-016.JPG
+-121.819488925219,37.2623297244371,19,HT-02-004,Torreya californica,California Nutmeg,200 Edenvale Avenue,parking lot to the left of entrance,1,18,57,Hayes Mansion site,unusual species,685-04-026,2,4/08,HT-02-004.JPG
+-121.800518356299,37.2694895697845,20,HT-02-005,Quercus lobata,Valley Oak,436 Fullerton Drive,back yard,1,54,170,,,678-45-006,2,8/95,HT-02-005.JPG
+-121.79758986855,37.2689370052385,21,HT-02-008,Quercus lobata,Valley Oak,507 Latona Court,side yard,1,50,157,,,678-39-067,2,8/95,HT-02-008.JPG
+-121.796789087381,37.2683497952426,22,HT-02-001,Quercus lobata,Valley Oak,Delridge / Coyote Road intersection,in meridian,1,52,164,,,"	678-39-091",2,4/08,HT-02-001.JPG
+-121.738051734277,37.2889330238544,23,HT-08-006,Cedrus deodara,Deodar Cedar,"Prestwick Circle, Wehner Mansion",adjacent to 7787 Beltrane Drive,1,72,226,Wehner Mansion built 1890,,665-58-083,8,4/08,HT-08-006.JPG
+-121.738283393229,37.2888661983839,24,HT-08-004,"	Araucaria araucana",Monkey Puzzle Tree,"Prestwick Circle, Wehner Mansion",Wehner Mansion back yard - to the right,1,50,157,Wehner Mansion built 1890,,665-58-083,8,4/08,HT-08-004.JPG
+-121.738568078382,37.2884876610306,25,HT-08-005-B,Cedrus deodara,Deodar Cedar,"Prestwick Circle, Wehner Mansion",Wehner Mansion back yard - to the left,2,52,164,Wehner Mansion built 1890,,665-58-083,8,4/08,HT-08-005-B.JPG
+-121.738410312132,37.2884213761204,26,HT-08-005-A,"	Cedrus deodara",Deodar Cedar,"Prestwick Circle, Wehner Mansion",Wehner Mansion back yard - to the left,2,52,164,Wehner Mansion built 1890,,"665-58-083	",8,4/08,HT-08-005-A.JPG
+-121.852479533439,37.2179995742687,27,HT-10-011,Quercus lobata,Valley Oak,"	6842 Trinidad Drive","	park strip",1,40,126,,,701-04-111,10,8/95,HT-10-011.JPG
+-121.852446953922,37.2247409194827,28,HT-10-008,Umbellularia californica,California Bay,6590 Stonehill Drive,back yard,1,36,113,"associated with large rock outcroppings and Historical Indian grinding stone remains, previously Pfeifer Ranch",,696-13-014,10,8/95,HT-10-008.JPG
+-121.86963151287,37.2350708628511,29,HT-10-005-A,Platanus racemosa,California Sycamore,5972 Crossview Court,"side yard, tree on left",2,,,,,"	696-30-034",10,8/95,HT-10-005-A.JPG
+-121.869621520736,37.2350137554451,30,HT-10-005-B,Platanus racemosa,"	California Sycamore",5972 Crossview Court,"side yard, tree on right",2,,,,,696-30-034,10,8/95,HT-10-005-B.JPG
+-121.871141035004,37.2362584778811,31,HT-10-003-A,Platanus racemosa,California Sycamore,Crossprings Median,1st tree in median,3,36,113,,,696-01-016,10,8/95,HT-10-003-A.JPG
+-121.871126042418,37.2362214576932,32,HT-10-003-B,"	Platanus racemosa",California Sycamore,"	Crossprings Median",2nd tree in median,3,36,113,,,696-01-016,10,8/95,HT-10-003-B.JPG
+-121.87111104872,37.2361844375165,33,HT-10-003-C,Platanus racemosa,"	California Sycamore",Crossprings Median,3rd tree in median,3,36,113,,trunk runs horizontally,696-01-016,10,8/95,HT-10-003-C.JPG
+-121.871161734466,37.236314029574,34,HT-10-002,Platanus racemosa,California Sycamore,"	Crossprings & Crosspoint",along side fence,1,76,239,,,"	696-01-016",10,8/95,HT-10-002.JPG
+-121.871305370851,37.2367315155639,35,HT-10-004,Platanus racemosa,California Sycamore,Crossprings & Winfield,"	in front of the gate to the community",1,68,214,,,696-01-016,10,8/95,HT-10-004.JPG
+-121.884089011976,37.2327593051471,36,HG-10-002,Quercus agrifolia,Coast Live Oak,5895 Meridian Avenue,Jeffery Fontana Park,10,,,,10 Trees in Fontana Park,"	577-04-018",10,,HG-10-002.JPG
+-121.877487564673,37.2347399054867,37,HT-10-010,Quercus agrifolia,Live Oak,5994 Thorntree Drive,back yard,1,72,226,,,577-52-054,10,8/95,HT-10-010.JPG
+-121.876812155649,37.2364431298595,38,HT-10-009,Quercus agrifolia,Live Oak,5958 Thorntree Drive,"	back side yard",1,50,157,,,577-52-063,10,8/95,HT-10-009.JPG
+-121.877207687162,37.2365457716126,39,HT-10-012,Quercus agrfolia,Coast Live Oak,5948 Sterling Oaks Drive,,1,48,151,,large specimen,,10,4/08,HT-10-012.JPG
+-121.893544877101,37.2383612155063,40,HT-10-013,Schinus molle,California Pepper Tree,5730 Chambertin Drive,"	Old Almaden Winery Site",1,72,226,,"	large specimen",associated with original mansion on winery site,10,4/08,HT-10-013.JPG
+-121.893636799414,37.2376925006302,41,HG-10-001,Olea europaea,Olive,5730 Chambertin Drive,in the courtyard in front of original winery,5,36,113,associated w/ original Mansion Almaden Winery site,,567-34-001,10,4/08,HG-10-001.JPG
+-121.895499891404,37.2570378804214,42,HT-10-001,Quercus lobata,Valley Oak,Branham Lane / Tampico Way intersection,tree is adjacent to 4766 Tampico Way,1,50,157,,unusually large landmark specimen,"	451-43-101",10,4/08,HT-10-001.JPG
+-121.946629935464,37.2511729791087,43,HT-09-001,Quercus agrifolia,Coast Live Oak,"	2425 Samaritan Drive",at the entrance of the Good Samaritan Hospital,1,52,164,,,421-36-009,9,8/95,HT-09-001.JPG
+-121.766519973518,37.3074893354345,44,HT-08-001,Quercus lobata,Valley Oak,3234 Delta Road,front yard,1,61,192,,,660-41-029,8,8/95,HT-08-001.JPG
+-121.798019367689,37.3499673515582,45,HT-08-003-C,Schinus molle,California Pepper,"1825 Mt. Pleasant Road, Moose Lodge #401","park strip, 3rd tree from corner",3,48,151,,,649-01-061,8,4/08,HT-08-003-C.JPG
+-121.797598262035,37.3501966950219,46,HT-08-003-B,Schinus molle,California Pepper,"	1825 Mt. Pleasant Road, Moose Lodge #401","park strip, 2nd tree from corner",3,48,151,,,649-01-061,8,4/08,HT-08-003-B.JPG
+-121.797032467996,37.3505352965902,47,HT-08-003-A,Schinus molle,California Pepper,"1825 Mt. Pleasant Road, Moose Lodge #401","park strip, tree on corner",3,48,151,,,649-01-061,8,4/08,HT-08-003-A.JPG
+-121.834659241032,37.3096416660867,48,HT-07-007,Liquidambar formosana,"	Chinese Sweet Gum",1006 Idlewood Court,,1,36,113,,large specimen,,7,4/08,HT-07-007.JPG
+-121.828548126178,37.3080528952953,49,HT-07-001,Quercus lobata,Valley Oak,1165 Bellingham Drive,front yard,1,54,170,,"unusually large specimen	",499-09-013,7,4/08,HT-07-001.JPG
+-121.82398090343,37.3016935445182,50,HT-07-003,"	Quercus lobata",Valley Oak,3067 Cray Court,back yard,1,72,226,,,499-36-041,7,8/95,HT-07-003.JPG
+-121.855831182786,37.3197047204347,51,HT-07-002,"	Platanus racemosa",California Sycamore,1702 -1716 Bevin Brook Drive,back yard of the condos - 1702-1716,1,68,213,Planted by the Grilli Family approx. 1860,,"477-72-015, -016, -017, -018, -019, -020, -021, -0",7,8/95,HT-07-002.JPG
+-121.874416780552,37.3163030582906,52,HT-03-021,Platanus racemosa,California Sycamore,"	1381 S. First Street",,1,54,170,associated with property owner known as Zanger Property,large speciman,,3,4/08,HT-03-021.JPG
+-121.874218733794,37.316491361079,53,HT-03-020,Washingtonia robusta,Mexican Fan Palm,1381 S. First Street,,1,38,120,,,,3,4/08,HT-03-020.JPG
+-121.882079128245,37.2969172544752,54,HT-06-008-A,Cedrus atlantica,Cedars,800 Malone Road,left front of lot,3,,,,,439-26-059,6,4/08,HT-06-008-A.JPG
+-121.882121814255,37.2969014912799,55,HT-06-008-B,Cedrus libani,Cedars,800 Malone Road,middle of lot,3,,,,,439-26-059,6,4/08,HT-06-008-B.JPG
+-121.907578887442,37.2859390041693,56,HT-06-005,"	Cinnamomum glanduliferum",Nepal Camphor,1885 Georgetta Drive,park strip,1,50,157,,,446-25-023,6,8/85,HT-06-005.JPG
+-121.908081225313,37.2884484700644,57,HT-06-004-B,Magnolia grandiflora,Southern Magnolia,1615 Dry Creek Road,"front yard, tree on the right	",2,48,151,,,,6,8/85,HT-06-004-B.JPG
+-121.908192433866,37.2884113680717,58,HT-06-004-A,Magnolia grandiflora,Southern Magnolia,1615 Dry Creek Road,"front yard, tree on the left",2,48,151,,,429-44-025,6,8/85,HT-06-004-A.JPG
+-121.893505058101,37.2920249854611,59,HT-06-012,Acer saccharinum,Silver Maple,1201 Malone Rd.,,1,44,138,,very large specimen,,6,4/08,HT-06-012.JPG
+-121.894778465774,37.292295951638,60,HT-06-023,Quercus coccinea,Scarlet Oak,1244 Lennon Way,,1,42,132,,large specimen,,6,4/08,HT-06-023.JPG
+-121.894822040282,37.2950314843709,61,HT-06-035,Acer saccharinum,Silver Maple,1192 Norval Way,,1,54,170,,large specimen,,6,4/08,HT-06-035.JPG
+-121.88334296474,37.3038309222969,62,HT-06-022,Platanus racemosa,California Sycamore,660 Willow Glen Way,front yard,1,72,226,,very large specimen,434-29-063,6,4/08,HT-06-022.JPG
+-121.902903980598,37.3029355239208,63,HT-06-001,Umbellularia californica,California Bay,1237 Brace Avenue,"	front yard",1,42,132,,,429-14-037,6,4/08,HT-06-001.JPG
+-121.898432557196,37.3083667105817,64,HT-06-016,Schinus molle,"California Pepper	",1167 Settle Avenue,"	back yard",1,48,151,,large specimen,429-05-007,6,4/08,HT-06-016.JPG
+-121.905997330128,37.3065486234309,65,HT-06-002,Cedrus deodara,Deodara Cedar,1093 Camino Ricardo,"	front yard",1,46,148,,unusually large specimen,264-59-058,6,8/85,HT-06-002.JPG
+-121.913155037159,37.3064739977164,66,HG-06-006,Cinnamomum camphora,Camphor,"1009 Westwood Drive (#1009(x2), #1017(x2), #1018(x",park strip,21,30,94,,,264-01-031,6,4/08,HG-06-006.JPG
+-121.903210142791,37.3136502882111,67,HT-06-015,Corymbia ficifolia,Red Flowering Eucalyptus,997 Ramona Court,front yard,1,44,138,,,264-53-012,6,4/08,HT-06-015.JPG
+-121.899568191836,37.3156376053232,68,HG-06-008-A,Washingtonia robusta,Mexican Fan Palm,Palm Haven Avenue,park strips and median Islands,356,,,planted circa 1913,,,6,4/08,HG-06-008-A.JPG
+-121.898577848019,37.3155993602299,69,HG-06-008-B,Phoenix canariensis,"	Canary Island Palm",Palm Haven Ave,median Islands,24,,,planted circa 1913,,,6,4/08,HG-06-008-B.JPG
+-121.890386898278,37.3167908876223,70,HT-06-007,Juglans californica,Northern California Black Walnut,340 Hull Avenue,park strip,1,48,151,,,264-48-047,6,4/08,HT-06-007.JPG
+-121.906407170559,37.3160135689376,71,HT-03-012,Ficus carica,"	Black Mission Fig",770 Lincoln Avenue,rear court yard,1,38,120,one of the oldest fig trees in Santa Clara County,,264-10-060,3,8/95,HT-03-012.JPG
+-121.890959598769,37.3266758304072,72,HG-03-003,Casuarina equisetifolia,River She-Oak,180 Woz Way,"behind Children's Discovery Museum, along river",9,,,,unusual species,264-27-086,3,4/08,HG-03-003.JPG
+-121.888790733576,37.3313034050314,73,HT-03-001,Cedrus deodara,Deodar Cedar,Market Street & West San Carlos Street,,1,10,,Planted in 1976 to commemorate the City's bicentennial. Time capsules beneath the tree will be opened in 2076.,,,3,4/08,HT-03-001.JPG
+-121.87993404752,37.331470564083,74,HT-03-007,Carya illinoinensis,Pecan,483 S. 6th Street,park strip,1,24,75,,unusual self-seeding pecan tree,467-48-010,3,4/08,HT-03-007.JPG
+-121.867486416905,37.3357814067802,75,HT-03-011,Sambucus mexicana,Blue Elderberry,William St. Park,"	along Coyote Creek",1,60,,,On the National Register of Big Trees as the largest specimen in the country of this species,,3,4/08,HT-03-011.JPG
+-121.891618144423,37.3380822802363,76,HT-03-014-A,Quercus macrocarpa,Bur Oak,St. James Park,along N. 1st Street,2,30,,,unusual species,,3,4/08,HT-03-014-A.JPG
+-121.891656545974,37.3382201161699,77,HT-03-014-B,Quercus macrocarpa,Bur Oak,St. James park,along N. 1st Street,2,30,94,,unusual species,,3,4/08,HT-03-014-B.JPG
+-121.892505106382,37.339046945765,78,HG-03-002,Washingtonia filifera,California Fan Palm,St. James Park,west side - along 1st street,21,24,75,,,467-21-014,3,4/08,HG-03-002.JPG
+-121.878515252495,37.3494386689952,79,HT-03-003,Platanus x hispanica,London Plane,368 N. 17th Street,park strip,1,46,145,,unusually large specimen,249-60-026,3,4/08,HT-03-003.JPG
+-121.8799841409,37.351297357551,80,HT-03-022,Quercus lobata,Valley Oak,443 N. 17th Street,,1,32,101,,,249-57-065,3,11/13,HT-03-022.JPG
+-121.881285912078,37.3531579986256,81,HT-03-004,Ulmus americana,American Elm,536 N. 17th Street,park strip,1,56,176,,unusually large specimen,249-26-022,3,4/08,HT-03-004.JPG
+-121.885876684696,37.3591851391538,82,HT-03-005,Catalpa speciosa,Western Catalpa,809 N. 17th Street,park strip,1,38,119,,,249-14-011,3,8/95,HT-03-005.JPG
+-121.903366191669,37.3557776785326,86,HT-03-019,Quercus agrifolia,"	Coast Live Oak",58 E. Younger Avenue,back yard,2,50,151,,,235-08-006,3,8/95,HT-03-019.JPG
+-121.850173417798,37.3647693152703,87,HT-05-001,Schinus molle,California Pepper,227 N. Jackson Avenue,in parking lot eas of medical building,1,95,,a remnant from the Overfelt Ranch,,,5,4/08,HT-05-001.JPG
+-121.896376748753,37.3771227891195,88,HT-04-005,Eucalyptus globulus,Blue Gum,Schallenberger / Old Oakland Road intersection,in the median adj. to 1505 Schallenberger Road,1,120,377,,very large specimen,237-14-086,4,4/08,HT-04-005.JPG
+-121.885415112327,37.3869266312868,89,HT-04-003,Platanus racemosa,"	California Sycamore",1550 Lundy Avenue,entrance of Pacific Rim Plaza,1,100,315,,,245-44-010,4,4/08,HT-04-003.JPG
+-121.89809397536,37.3857908835355,90,HT-04-004-A,Jubaea chilensis,Chilien Wine Palm,1769 Old Oakland Road,"inter. of McKay Rd, tree on left",2,44,138,,unusual species,237-03-059,4,4/08,HT-04-004-A.JPG
+-121.8980668594,37.3857537280458,91,HT-04-004-B,Jubaea chilensis,Chilien Wine Palm,1769 Old Oakland Road,"inter. of McKay Rd, tree on left",2,44,138,,unusual species,,4,4/08,HT-04-004-B.JPG
+-121.903427250533,37.3852891491079,93,HT-04-002-A,Jubaea chilensis,Chilien Wine Palm,1781 Fox Drive,"left of entrance, tree on the left",2,48,151,,unusual species,237-03-051,4,8/95,HT-04-002-A.JPG
+-121.903452533738,37.385384886093,94,HT-04-002-B,Jubaea chilensis,Chilien Wine Palm,1781 Fox Drive,"left of entrance, tree on the right",2,48,151,,unusual species,237-03-051,4,8/95,HT-04-002-B.JPG
+-121.966971086624,37.3053682476226,95,HT-01-002,Quercus agrifolia,Coast Live Oak,1133 Welch Avenue,,1,55,173,,,299-19-042,1,11/13,HT-01-001.JPG
+-121.920449905928,37.3207233289531,96,HT-06-009,Acer macrophyllum x pennsylvanicum,Hybrid Maple,446 Mayellen Avenue,park strip,1,30,94,,,277-17-058,6,8/85,HT-06-009.JPG
+-121.92197594951,37.3263256677817,97,HG-06-003,Platanus x hispanica,London Plane,"Shasta Avenue (#1601, #1627, #1634, #1661, #1671, ",park strip,7,,,,,274-15-089,6,4/08,HG-06-003.JPG
+-121.920264013091,37.3276581736751,98,HT-06-018,Cedrus deodara,Deodar Cedar,1537 Shasta Avenue,front yard,1,48,151,,,274-12-037,6,4/08,HT-06-018.JPG
+-121.919283507484,37.3283986862681,99,HT-06-017,Cedrus deodara,Deodar Cedar,"	1465 Shasta Avenue",front yard,1,42,132,,,274-12-029,6,4/08,HT-06-017.JPG
+-121.913925969217,37.3290989643114,100,HG-06-004,Castanea sativa,Chestnut,Sierra Ave. (#1252 & #1357),park strip,2,,,planted by John McLaren,large and unususal species,261-26-029,6,4/08,HG-06-004.JPG
+-121.914698362468,37.3299860507012,101,HG-06-007,Washingtonia robusta,Mexican Fan Palm,Martin Avenue,"	between Park Avenue & The Alameda",80,,,part of original neighborhood design by John McClaren (superintendent and designer of San Francisco's Golden Gate Park),,,6,4/08,HG-06-007.JPG
+-121.915084589294,37.331066273041,102,HT-06-006,Magnolia grandiflora,Southern Magnolia,1225 Hanchett Avenue,side yard,1,48,151,,,261-22-055,6,4/08,HT-06-006.JPG
+-121.934888795026,37.330339459811,103,HT-06-021,Sequoiadendron giganteum,Giant Sequoia,2041 University Way,"	front yard",1,60,188,,large specimen,274-38-067,6,4/08,HT-06-021.JPG
+-121.92835797623,37.3350413741312,104,HG-06-005,Quercus agrifolia,Coast Live Oak,"University Avenue (#1440, 1441, 1461, #1500, #1520",park strip,12,,,,,274-23-017,6,4/08,HG-06-005.JPG
+-121.924721989295,37.337603524237,105,HT-06-020,Olea europaea,Olive,1278 University Avenue,park strip - tree on the left,1,42,141,,large specimen,261-14-045,6,4/08,HT-06-020.JPG
+-121.925060661464,37.3400213909008,106,HT-06-011,Schinus molle,California Pepper,917 Morse Street,park strip,1,48,151,,"large specimen, hollow in center",230-43-052,6,4/08,HT-06-011.JPG
+-121.906455123503,37.3331256407477,108,HT-06-003,Ulmus americana,American Elm,764 Clinton Place,"	front yard",1,52,164,,unusually large specimen,259-05-039,6,4/08,HT-06-003.JPG
+-121.915782644447,37.3351924344213,109,HT-06-029,Phoenix canariensis,Canary Island Date Palm,1590 The Alameda,Garden Alameda,1,48,151,,large specimen,,6,4/08,HT-06-029.JPG
+-121.915767319126,37.3348564246105,110,HT-06-025,Ulmus americana,American Elm,1590 The Alameda,Garden Alameda,1,24,,,large specimen,,6,4/08,HT-06-025.JPG
+-121.91417318374,37.3348792477021,111,HT-06-026,Cedrus deodara,Deodar Cedar,1520 The Alameda,Garden Alameda,1,42,132,,large specimen,,6,4/08,HT-06-026.JPG
+-121.914954905512,37.3342939885256,112,HT-06-028,Grevillea robusta,Silk Oak,1510 The Alameda,Garden Alameda,1,32,,,large specimen,,6,4/08,HT-06-028.JPG
+-121.916020378904,37.3356831256923,113,HT-06-024,Sequoia sempervirens,Coast Redwood,1590 The Alameda,near Schiele Avenue,1,42,132,,large specimen,,6,4/08,HT-06-024.JPG
+-121.916113200244,37.3356176260096,114,HT-06-032,Schinus molle,California Pepper,1590 The Alameda,Garden Alameda,1,42,132,,large specimen,,6,4/08,HT-06-032.JPG
+-121.915072036242,37.3355121762535,115,HT-06-030,Cedrus deodara,Deodar cedar,1570 The Alameda,Garden Alameda,1,30,94,,large multi trunk specimen,,6,"	4/08",HT-06-030.JPG
+-121.914845799079,37.3361014606429,116,HT-06-031,Juglans californica,Northern California Black Walunt,1570 The Alameda,Garden Alameda,1,,,,large multi trunk specimen with 6 interconnected leaders,,6,4/08,HT-06-031.JPG
+-121.915220738255,37.3362686082492,117,HT-06-019,Quercus lobata,Valley Oak,"	1570 The Alameda",in parking lot of office building,1,64,201,,large specimen,261-06-036,6,8/85,HT-06-019.JPG
+-121.915078504443,37.3349076623074,118,HT-06-034,Sequoia sempervirens,Coast Redwood,1550 The Alameda,Garden Alameda,1,34,,,large specimen,,6,4/08,HT-06-034.JPG
+-121.995249632588,37.302640387889,119,HT-01-001,Quercus agrifolia,Coast Live Oak,5275 Forest Creek,Saratoga Creek Park,1,74,,,large spreading specimen,381389,1,,
+-121.869038949535,37.3439360667364,120,HT-03-002,Wisteria sinensis,Chinese Wisteria,95 S. 21st Street,,1,12,,old vine on trellis that is an integral part of the original design of the house.,,6206589,3,,
+-121.869906307404,37.336314251567,121,HT-03-006,Platanus racemosa,California Sycamore,460 S. 16th Street,,1,60,,,very large specimen,63646,3,,
+-121.86844045221,37.3390316189467,123,HT-03-010,Brachychiton populneus,Bottle Treet,323 S. 18th Street,,1,26,,,unusual specimen and species,63737,3,,
+-121.91016754534,37.3480807781936,124,HT-03-016,Brachychiton populneus,Bottle Tree,University Ave,approximately 300 feet west of Ruff Dr,1,40,,,unusual specimen,43807,3,,
+-121.880855307582,37.355663502809,125,HT-03-017-A,Salix babylonica,Weeping Willow,897 E. Jackson St.,,,30,,,both associated with historic residence on site.,41374,3,,
+-121.881108601241,37.3555574675379,126,HT-03-017-B,Phoenix canariensis,Canary Island Date Palm,897 E. Jackson St.,,,30,,,both associated with historic residence on site.,41374,3,,
+-121.893346499976,37.2829862280428,127,HT-06-013,Albizia julibrissin,Silk Tree,2449 Lansford Avenue,,1,48,,,"largest specimen in San Jose
+specimen in San José",88984,6,,
+-121.8820700974,37.2946367318921,128,HT-06-014,Populus fremontii,Fremont Poplar,2147 Ardis Drive,,1,54,,,unusually large native specimen,88724,6,,
+-121.915579835281,37.3346669581446,129,HT-06-027,Ulmus procera,English Elm,1550 The Alameda,Garden Alameda,1,30,,,large specimen,45455,6,,
+-121.918327181945,37.3297680010247,130,HT-06-036,Magnolia grandiflora,,1377 Shasta Avenue,,1,29,,,,46335,6,,
+-121.894574778513,37.2944099967446,131,HT-06-037,Tilia tomentosa,Silver Linden,1195 Clark Way,,,41,,,unusual species,87430,6,,
+-121.921919211065,37.3249109954115,132,HT-06-038,Cedrus deodora,Deodar Cedar,1698 Hanchett Avenue,,1,53,,,,48327,6,,
+-121.898107032656,37.297849417537,133,HT-06-039,Umbellularia californica,California Bay Laurel,1616 Newport Avenue,,,82,,,exceptionally large specimen,85385,6,,
+-121.898146285654,37.2979164117609,135,HT-06-040,Carya illinoinensis,Pecan,1616 Newport Avenue,,1,36,,,,85385,6,,
+-121.855915363128,37.2987394892593,136,HT-07-006,Araucaria araucana,Monkey Puzzle Tree,2500 Monterey Highway,"Santa Clara County Fairgrounds, Gate B Entrance",1,34,,,unusual species,75508,7,,
+-121.738491663932,37.291412401893,137,HT-08-007,Pinus pinea,Italian Stone Pine, 1890 Prestwick Circle,"Wehner Mansion, circa. The Villages",,48,,,,580824,8,,
+-121.78617112777,37.339990636717,138,HT-08-008,Quercus lobata,Valley Oak,2442 Ruby Avenue,,1,48,,,,120605,8,,
+-121.81091451825,37.31269061568,139,HT-08-009,Quercus lobata,,2949 Atwood Drive,,1,61,,,,131011,8,,
+-121.876225883296,37.2659946628274,141,HT-09-002,Quercus lobata,Valley Oak,1081 Royal Acres Court,,1,56,,,,225205,9,,
+-121.850146879981,37.2499516334729,142,HT-10-006,Quercus lobata,Valley Oak,750 Rielly Court,,1,44,,,,305582,10,,
+-121.92407240095,37.2360690804564,143,HT-10-014,Ficus carica,Fig,1891 Blossom Hill Road,,1,48,,associated with original mansion on winery site,,395988,10,,
+-121.866713151734,37.2082617211704,144,HT-10-015,Quercus agrifolia,Coast Live Oak,1273 Chateau Drive,,1,54,,,,250995,10,,
+-121.876294651997,37.248799267541,145,HT-10-016,Acer paxii,Evergreen Maple,5656 Tucson Drive,,1,31,,,unusual species,237843,10,,

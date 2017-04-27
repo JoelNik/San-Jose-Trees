@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>San Jose Heritage Trees</title>
+  <style>
+  .boundary {
+    fill: none;
+    stroke: #888;
+    stroke-linejoin: round;
+  }
+  svg {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ccc;
+  }
+  text {
+    font-family: Helvetica;
+    font-weight: 300;
+    font-size: 12px;
+  }
+  #tooltip{
+    position: absolute;
+    z-index: 2;
+    background: rgba(0,153,76,0.8);
+    width:130px;
+    height:20px;
+    color:white;
+    font-size: 14px;
+    padding:5px;
+    top:-150px;
+    left:-150px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  }
+
+  path {
+    stroke: LightGray;
+    stroke-width: 2px;
+  }
+ 
+
+   path.secondary {
+    stroke: black;
+    stroke-width: 5px;
+  }
+  
+
+  </style>
+</head>
+
+<body>
+  <div id="map"></div>
+  <div id="tooltip"></div>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://d3js.org/topojson.v1.min.js"></script>
+
+  <script>
+  (function() {
+
+  // Sets up the SVG for the map
+  var height = 600;
+  var width = 900;
+  var san_jose = void 0;
+
+  var svg = d3.select("#map")
+      .append("svg")
+      .attr("width", width)
+      .attr("height", height);
+  var map = svg.append('g').attr('class', 'districts');
+
+  // Sets up projection 
+  projection = d3.geo.mercator();
+  var path = d3.geo.path().projection(projection);
+
+  // Defines hover tooltip
+  var hover = function(d) {
+    var div = document.getElementById('tooltip');
+    div.style.left = event.pageX +'px';
+    div.style.top = event.pageY + 'px';
+    div.innerHTML = d.properties.id + d.properties.highway;
+  };
+
+  // Defines click on
+  var click = function(d) {
+    san_jose.attr('stroke','gray')
+            .attr('stroke-width', '')
+            .attr('fill-opacity', 0.2); 
+    console.log(d);
+    console.log('path#' + 'D' + d.properties.cartodb_id);
+    console.log(d3.select('path#' + 'D' + d.properties.cartodb_id).style('stroke-width', '5px').style('stroke', 'black'));
+  };
+
+  // Loads and draws the neighborhood boundaries.  
+  d3.json('san_jose.geojson', function(data) { 
+    
+    var districts = data
+
+    // Scales and translates projection
+    //b, s, t;
+    projection.scale(1).translate([0, 0]);
+    var b, s, t;
+    var b = path.bounds(districts);
+    var s = .95 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height);
+    var t = [(width - s * (b[1][0] + b[0][0])) / 2, (height - s * (b[1][1] + b[0][1])) / 2];
+    projection.scale(s).translate(t);
+   
+    // Draws out the distric boundaries
+    san_jose = map.selectAll('path').data(districts.features);
+
+    san_jose.enter()
+       .append('path')
+       .attr('d', path)
+       .attr('id', function(d) { return "D" + d.properties.cartodb_id} )
+       .attr('fill', 'gray')
+       .attr('fill-opacity', 0.2)
+       .on("click", click);
+      
+    // Remove elements (not really necessary)
+    san_jose.exit().remove();
+
+
+    // Loads and draws the heritage trees.  
+    d3.csv('heritage_trees.csv', function(data){
+
+      var tree_data = data;
+      
+      console.log(tree_data);
+
+      // Draws out the distric boundaries
+      trees = map.selectAll('circle').data(tree_data);
+
+      trees.enter()
+         .append('circle')
+         .attr('r', 2)
+         .attr('cx', function(d) {console.log(projection([d.X, d.Y])); return projection([d.X, d.Y])[0]; })
+         .attr('cy', function(d) { return projection([d.X, d.Y])[1]; })
+         .attr('id', function(d) { return d.TreeID} )
+         .attr('fill', 'green');
+      
+
+    });
+
+
+
+  });
+  
+
+
+
+
+  })();
+  </script>
+</body>
+</html>
