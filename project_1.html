@@ -38,12 +38,15 @@
     stroke-width: 2px;
   }
  
-
    path.secondary {
     stroke: black;
     stroke-width: 5px;
   }
   
+  .overlay {
+      fill: none;
+      pointer-events: all;
+  }
 
   </style>
 </head>
@@ -57,10 +60,15 @@
   <script>
   (function() {
 
+
+  // New function
+  var zoom = d3.behavior.zoom()
+    .scaleExtent([1, 8])
+    .on("zoom", zoomed);
   // Sets up the SVG for the map
   var height = 600;
   var width = 900;
-  var san_jose = void 0;
+  var san_jose = void 0; 
 
   var svg = d3.select("#map")
       .append("svg")
@@ -71,6 +79,11 @@
   // Sets up projection 
   projection = d3.geo.mercator();
   var path = d3.geo.path().projection(projection);
+
+  // Zoom function
+  var zoomed = function () {
+    map.attr("transform", "translate("+ d3.event.translate + ")scale(" + d3.event.scale + ")");
+  };
 
   // Defines hover tooltip
   var hover = function(d) {
@@ -140,7 +153,16 @@
 
     });
 
+    var zoom = d3.behavior.zoom()
+            .scaleExtent([1,8])
+            .on("zoom", zoomed)
+            .size([width, height]);
 
+    svg.append("rect")
+        .attr("class", "overlay")
+        .attr("width", width)
+        .attr("height", height)
+        .call(zoom);
 
   });
   
